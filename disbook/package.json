@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "typescript": "^3.9.3"
   },
   "scripts": {
@@ -47,12 +47,12 @@
     "@storybook/addon-knobs": "^5.3.18",
     "@storybook/addon-links": "^5.3.18",
     "@storybook/addon-queryparams": "^5.3.18",
-    "@storybook/addon-storyshots": "^5.3.18",
+    "@storybook/addon-storyshots": "^7.6.20",
     "@storybook/addon-storysource": "^5.3.18",
     "@storybook/addon-viewport": "^5.3.18",
     "@storybook/addons": "^5.3.18",
     "@storybook/preset-create-react-app": "^3.0.0",
-    "@storybook/react": "^5.3.18",
+    "@storybook/react": "^10.0.7",
     "event-emitter": "^0.3.5"
   }
 }
